@@ -1,4 +1,4 @@
 # demo
 this is demo repo
 <br>
-Auther - Pratik Suresh Pawar.
+Auther - Pratik Pawar.
